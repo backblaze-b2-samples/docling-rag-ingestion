@@ -34,7 +34,7 @@
     "radix-ui": "^1.4.3",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "react-dropzone": "^15.0.0",
+    "react-dropzone": "^19.1.1",
     "react-hook-form": "^7.73.1",
     "react-markdown": "^9.0.1",
     "recharts": "2.15.4",
