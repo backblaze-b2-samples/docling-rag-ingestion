@@ -19,7 +19,7 @@ PyPDF2>=3.0.0
 # transitive ML stack (torch/torchvision, etc.) captured in requirements.lock;
 # imports are lazy in app/repo/docling_engine.py so verify:api needs none of it.
 # transformers backs the HybridChunker's token-aware chunking tokenizer.
-docling>=2.7.0
+docling>=2.115.0
 transformers>=4.40.0
 
 # Dev / quality
