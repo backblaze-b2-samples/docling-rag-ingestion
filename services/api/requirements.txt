@@ -13,7 +13,7 @@ boto3>=1.35.0
 # 11.x floor makes the full Docling stack unresolvable. 10.3.0 is docling's
 # minimum and is plenty for the metadata-extraction feature (PIL.Image/ExifTags).
 Pillow>=10.3.0
-PyPDF2>=3.0.0
+PyPDF2>=3.0.1
 
 # Document ingestion (the sample's headline capability). Docling pulls a large
 # transitive ML stack (torch/torchvision, etc.) captured in requirements.lock;
